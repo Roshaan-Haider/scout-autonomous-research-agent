@@ -5,11 +5,10 @@ A multi-step agentic system built with LangGraph that plans, retrieves, and synt
 ---
 
 <img src="assets/home.PNG" width="800" style="border: 1px solid #30363d; border-radius: 8px;" />
-<img src="assets/results.PNG" width="800" style="border: 1px solid #30363d; border-radius: 8px;" />
 
 <br>
-
 <img src="assets/results.PNG" width="800" style="border: 1px solid #30363d; border-radius: 8px;" />
+
 
 ---
 
