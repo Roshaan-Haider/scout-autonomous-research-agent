@@ -4,11 +4,12 @@ A multi-step agentic system built with LangGraph that plans, retrieves, and synt
 
 ---
 
-![](assets/home.png)
+![](assets/home.png?v=1)
 
-![](assets/results.png)
+![](assets/results.png?v=1)
 
 ---
+
 
 
 
