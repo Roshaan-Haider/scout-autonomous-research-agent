@@ -3,11 +3,11 @@
 A multi-step agentic system built with LangGraph that plans, retrieves, and synthesizes information across multiple tool calls — not a single-shot chatbot wrapper, but a stateful reasoning loop with explicit control flow, loop protection, and guaranteed termination. Runs entirely on a local LLM, with zero data leaving the machine.
 
 ---
-<img src="assets/home.png" width="800">
+<img src="assets/home.png" width="850">
 
 
 
-<img src="assets/results.png" width="800">
+<img src="assets/results.png" width="900">
 
 ---
 
